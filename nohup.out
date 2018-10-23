@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "assignment.py", line 1, in <module>
+    n , m = map(int , input().split())
+OSError: [Errno 9] Bad file descriptor
